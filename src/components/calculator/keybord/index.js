@@ -4,7 +4,7 @@ import Key from './key'
 export default class Keybord extends Component {
     render() {
         return (
-            <div className="keyboard col-xs-12">
+            <div className="keyboard col-xs-11">
                 <div className="row">
                 <Key value="7"/>
                 <Key value="8"/>
