@@ -1,25 +1,17 @@
-
-.calculator{
- background: #3c3d3e;
- margin-top: 25px;
- height: 600px
+.celek{
+    background: darkslateblue;
+    margin-top: 15px;
 }
-.result-box{
-    background: #009c06;
+.displej{
+    background:greenyellow;
+    padding:10px;
+    text-align: right;
+    font-family: cursive;
     font-size: 3em;
-     margin-top: 15px;
-     border: solid black 1px;
-     text-align: right;
- }
-.Key{
-    background: #FFF;
-    border: solid black 1px;
-    width: 23%;
-    height: 75px;
-    font-size: 3em;
-    margin-top: 40px;
-    text-align: center;
-    display: inline-block;
-
-    
-}    
+    margin-top: 5px;
+    margin-bottom: 5px;
+}
+.klavesa{
+    border:1px solid black !important;
+    padding:15px !important;
+}
